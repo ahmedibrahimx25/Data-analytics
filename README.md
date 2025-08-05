@@ -16,4 +16,4 @@ This project explores and analyses the NYC Airbnb Open Data, focusing on data cl
 - pandas, numpy, matplotlib, seaborn, fpdf2
 
 ## Author
-Ahmed Ibrahim (
+Ahmed Ibrahim
